@@ -6,7 +6,7 @@
 </p>
 
 🎲 Play Online:
-- 🗽 [Official NYT Worldle](https://www.nytimes.com/games/wordle/index.html)
-- ♾ [Wordle Unlimited](https://www.wordleunlimited.com/)
+- 🗽 [Official NYT Wordle](https://www.nytimes.com/games/wordle/index.html)
+- ♾ [WordPlay](https://wordplay.com/about)
 
 📕 The five letter word dictionary is based on the [GNU Collaborative International Dictionary of English](https://gcide.gnu.org.ua/download). It does not include most five letter plural words or past/future verb tenses.
